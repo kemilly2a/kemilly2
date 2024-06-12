@@ -1,1 +1,6 @@
-oie meu nome é kemilly eu sou aluna do alura.
+Boas vindas ao meu perfil 💙💙
+Meu nome é Kemilly Dantas
+
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
